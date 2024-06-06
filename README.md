@@ -5,7 +5,7 @@ Temos um conjunto de matérias-primas de agricultura com seu preço e variação
 
 ## Aplicação
 * Poderíamos descobrir a relação entre as matérias-primas em detalhes e, com a ajuda do conhecimento do negócio, poderíamos descobrir as matérias-primas mais próximas.
-  
+
 * Também podemos prever os preços das matérias-primas analisando os anos anteriores.
 
-* Prevendo a variação de preços e com base nisso, poderíamos planejar nosso uso de matéria-prima com antecedência para o próximo ano e descobrir quaisquer materiais alternativos.
+* Prevendo a variação de preços poderíamos planejar nosso uso de matéria-prima com antecedência para o próximo ano e descobrir quaisquer materiais alternativos.
