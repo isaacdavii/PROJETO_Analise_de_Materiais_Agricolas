@@ -4,7 +4,6 @@
 Temos um conjunto de matérias-primas de agricultura com seu preço e variação entre os anos de 1990-2020.
 
 ## Aplicação
-Trabalho futuro
 * Poderíamos descobrir a relação entre as matérias-primas em detalhes e, com a ajuda do conhecimento do negócio, poderíamos descobrir as matérias-primas mais próximas.
   
 * Também podemos prever os preços das matérias-primas analisando os anos anteriores.
