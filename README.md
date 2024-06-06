@@ -1,11 +1,25 @@
-# Projeto
-## Análise de Matérias-Primas Agrícolas 
+# Análise de Matérias-Primas Agrícolas
 
-Temos um conjunto de matérias-primas de agricultura com seu preço e variação entre os anos de 1990-2020.
+## Descrição
 
-## Aplicação
-* Poderíamos descobrir a relação entre as matérias-primas em detalhes e, com a ajuda do conhecimento do negócio, poderíamos descobrir as matérias-primas mais próximas.
+Este repositório contém uma análise detalhada de preços e variações percentuais de preços de matérias-primas agrícolas, com dados retirados do database da Kaggle. O conjunto de dados cobre o período de 1990 a 2020.
 
-* Também podemos prever os preços das matérias-primas analisando os anos anteriores.
+## Objetivo do Projeto
 
-* Prevendo a variação de preços poderíamos planejar nosso uso de matéria-prima com antecedência para o próximo ano e descobrir quaisquer materiais alternativos.
+O objetivo deste projeto é explorar e analisar a relação entre os preços das matérias-primas agrícolas ao longo do tempo. Com base nessa análise, podemos:
+
+- Identificar relações entre diferentes matérias-primas.
+- Prever os preços das matérias-primas com base nos dados históricos.
+- Planejar o uso de matérias-primas de forma mais eficiente, prevendo variações de preços.
+- Descobrir materiais alternativos com base nas tendências de preços.
+
+## Bibliotecas Utilizadas
+
+- **pandas**: Manipulação e análise de dados.
+- **numpy**: Computação numérica.
+- **seaborn**: Visualização de dados estatísticos.
+- **matplotlib**: Criação de gráficos e visualizações.
+
+## Estrutura do Repositório
+
+Dados da estrutura estão descritos dentro do Colab Notebook.
